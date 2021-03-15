@@ -6,3 +6,5 @@
 For Windows 10 (dvs. hellow.asm) så må man lenke til kjernebibliotek kernel32.dll:
 
 golink /entry:Start /console kernel32.dll hellow.obj
+
+Her legger jeg til tekst i README
